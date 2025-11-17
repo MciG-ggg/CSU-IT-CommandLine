@@ -1,0 +1,3 @@
+[submodule "codecrafters-shell-rust"]
+	path = codecrafters-shell-rust
+	url = /home/mcig/cs-self-learning/codecrafters-shell-rust
