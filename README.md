@@ -7,7 +7,7 @@
 └── codecrafters-shell-rust     // 课上提到的build your own shell
 ```
 
-项目h网址: tps://app.codecrafters.io/courses/shell/overview 
+项目网址: htps://app.codecrafters.io/courses/shell/overview 
 
 ## something else
 
